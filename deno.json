@@ -1,0 +1,5 @@
+{
+    "name": "@axelgard/probability",
+    "version": "0.1.0",
+    "exports": "./probability/probability.ts"
+}
